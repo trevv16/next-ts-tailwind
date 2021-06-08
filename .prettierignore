@@ -1,0 +1,15 @@
+*.yml
+node_modules
+build
+next
+package-lock.json
+coverage
+settings.json
+tsconfig.json
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
